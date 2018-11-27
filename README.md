@@ -1,3 +1,3 @@
 # hangman-game
 A better customised hangman game with cool features. 
-group members: Jabou njie and Zaynab Hassan
+1. group members: Jabou njie and Zaynab Hassan
